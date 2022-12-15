@@ -1,6 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Vituuuuu/dd4fada4489468f96fd3cf5c75d55c18/raw/390fc0fea9976184642a9906054f6c8ec48df5b3/githubcar.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vitor</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Beginner developer looking for knowledge and improvement
 
