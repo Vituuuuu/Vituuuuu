@@ -3,11 +3,11 @@
 
 - 🔥 Beginner developer looking for knowledge and improvement
 
-- 🔭 Studying laravel
+- 🔭 Studying C
 
-- 💬 Ask me about **PHP, JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **PHP, JavaScript, HTML, CSS, SQL**
 
-- ⚡ Fun fact **Only two can make it**
+- ⚡ Fun fact **Trust the process**
 
 <!--
 
